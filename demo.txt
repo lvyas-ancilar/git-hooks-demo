@@ -1,2 +1,3 @@
 Repo initialized on Fri Nov  7 00:10:31 IST 2025
-    
+
+Testing the git hook - 1
